@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Panorama</title>
+    <script type="text/javascript" src="../src/Panorama.js"></script>
+    <script type="text/javascript">
+        window.onload = function ()
+        {
+            var canvas = document.getElementById("canvas");
+            var titleArr = ["img/pano1.jpg","img/pano2.jpg","img/pano3.jpg","img/pano4.jpg","img/pano5.jpg","img/pano6.jpg"];
+
+            var pl = new Panorama.player();
+            pl.initPanorama(canvas, titleArr, []);
+        }
+    </script>
+</head>
+<body>
+    <canvas id="canvas" width="1024" height="768">Browser not support canvas</canvas>
+</body>
+</html>
