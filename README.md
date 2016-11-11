@@ -10,7 +10,7 @@ Panoramic photography is a technique of photography, using specialized equipment
 
 `-` Import file Panorama.js to your project
 
-`-` Initialize and strat player :
+`-` Initialize and start player :
 
 ~~~js
 var canvas = document.getElementById("canvas");
