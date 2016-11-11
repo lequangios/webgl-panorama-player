@@ -8,7 +8,7 @@ Panoramic photography is a technique of photography, using specialized equipment
 
 ## 2 How to use this source ?
 
-`-` Import flie Panorama.js to your project
+`-` Import file Panorama.js to your project
 
 `-` Initialize and strat player :
 
