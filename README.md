@@ -22,5 +22,5 @@ pl.initPanorama(canvas, titleArr, []);
 
 ## 3 Demo project ?
 
-You can preview demo [here](http://levietquang.com/demo/weglpano/)
+You can preview demo [here](https://mobilecodelab.com/demo/paronama/)
 
