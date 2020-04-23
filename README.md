@@ -22,5 +22,5 @@ pl.initPanorama(canvas, titleArr, []);
 
 ## 3 Demo project ?
 
-You can preview demo [here](https://mobilecodelab.com/demo/paronama/)
+You can preview demo [here](https://codepen.io/quangle1988/pen/QWbjqEZ)
 
